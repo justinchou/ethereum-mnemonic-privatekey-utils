@@ -2,7 +2,7 @@ const bip39 = require("bip39");
 const hdkey = require('ethereumjs-wallet/hdkey');
 const keythereum = require("keythereum");
 
-exports.debug = true;
+exports.debug = false;
 
 function getPrivateKeyFromMnemonic(mnemonic) {
     const hdwallet = hdkey.fromMasterSeed(bip39.mnemonicToSeed(mnemonic));
