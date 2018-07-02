@@ -1,17 +1,17 @@
 {
-  "name": "ethereum-mnemonic-privatekey-utils",
-  "version": "1.0.3",
-  "description": "generate private key via mnemonics (algorithm match metamask)",
-  "main": "index.js",
-  "scripts": {
-    "demo": "node demo.js"
-  },
-  "author": "Justin Chow <zhou78620051@126.com>",
-  "license": "MIT",
-  "dependencies": {
-    "bip39": "^2.5.0",
-    "ethereumjs-wallet": "^0.6.0",
-    "keythereum": "^1.0.3"
-  },
-  "devDependencies": {}
+	"name": "ethereum-mnemonic-privatekey-utils",
+	"version": "1.0.4",
+	"description": "generate private key via mnemonics (algorithm match metamask)",
+	"main": "index.js",
+	"scripts": {
+		"demo": "node demo.js"
+	},
+	"author": "Justin Chow <zhou78620051@126.com>",
+	"license": "MIT",
+	"dependencies": {
+		"bip39": "^2.5.0",
+		"ethereumjs-wallet": "^0.6.0",
+		"keythereum": "^1.0.3"
+	},
+	"devDependencies": {}
 }
