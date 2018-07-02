@@ -1,6 +1,6 @@
 {
 	"name": "ethereum-mnemonic-privatekey-utils",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "generate private key via mnemonics (algorithm match metamask)",
 	"main": "index.js",
 	"scripts": {
