@@ -2,7 +2,7 @@ const pkutils = require('./index');
 
 pkutils.debug = false;
 
-const mnemonic = 'yesterday once more happy bride smile short lovers make life sound great';
+const mnemonic = 'hidden crime people left hover gasp almost decade oil blush approve dress';
 const password = 'this is a totally long password';
 
 console.log('mnemonic               : %s', mnemonic);
